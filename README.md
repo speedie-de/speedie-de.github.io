@@ -21,7 +21,11 @@ spDE is technically compatible with every linux distribution but the install scr
 - [void](https://voidlinux.org)
 
 ### installation
-set up a debian/arch/gentoo/redhat system and log in as root. make sure to create a new user and change their password. then run one of these commands depending on what shell you use. if you're not sure, you can run "echo $SHELL" in a terminal. note that the shell cannot be sh.
+set up a debian/arch/gentoo/redhat system and log in as root. make sure to create a new user and change their password. 
+
+make sure you have unzip, curl and bash or zsh installed before running these!
+
+then run one of these commands depending on what shell you use. if you're not sure, you can run "echo $SHELL" in a terminal. note that the shell cannot be sh.
 
     for zsh: curl https://getspde.github.io | zsh
 
