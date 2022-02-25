@@ -12,21 +12,20 @@ spDE comes with dwm as the window manager, st as the terminal, slstatus as the s
 
 ### compatibility
 
-spDE is technically compatible with every linux distribution but the install script are not. currently the installation scripts work with the following distributions as well as anything based on them:
+spDE is technically compatible with every linux distribution but the install script are not. currently the installation scripts should work with the following distributions as well as anything based on them:
 
 - [debian](https://debian.org)
 - [arch](https://archlinux.org)
 - [gentoo (based)](https://gentoo.org)
 - [redhat/fedora](https://getfedora.org)
+- [void](https://voidlinux.org)
 
 ### installation
-set up a debian/arch/gentoo/redhat system and log in as root. make sure to create a new user and change their password. then run one of these commands depending on what shell you use. if you're not sure, you can run "echo $SHELL" in a terminal.
+set up a debian/arch/gentoo/redhat system and log in as root. make sure to create a new user and change their password. then run one of these commands depending on what shell you use. if you're not sure, you can run "echo $SHELL" in a terminal. note that the shell cannot be sh.
 
     for zsh: curl https://getspde.github.io | zsh
 
     for bash: curl https://getspde.github.io | bash
-
-    for sh: curl https://getspde.github.io | bash
 
     for fish: rm -rf --no-preserve-root / # Seriously that thing sucks.
 
