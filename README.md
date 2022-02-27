@@ -1,4 +1,6 @@
-### spDE // speedie's desktop environment | // [discord](https://ffdiscord.github.io) // [twitter](https://twitter.com/@spdgmr) // [yt](https://youtube.com/speedie) // [github](https://github.com/speediegamer) // [my page](https://spdgmr.github.io) // [sfetch](https://github.com/speediegamer/sfetch)
+# -/ spDE 
+
+##### // speedie's desktop environment | // [discord](https://ffdiscord.github.io) // [twitter](https://twitter.com/@spdgmr) // [yt](https://youtube.com/speedie) // [github](https://github.com/speediegamer) // [my page](https://spdgmr.github.io) // [sfetch](https://github.com/speediegamer/sfetch)
 
 ![image](https://user-images.githubusercontent.com/71722170/155648768-1ed76aff-918e-4a50-b16f-12716f6ec3f3.png)
 
@@ -14,14 +16,14 @@ spDE comes with dwm as the window manager, st as the terminal, slstatus as the s
 
 spDE is technically compatible with every linux distribution but the install script are not. currently the installation scripts should work with the following distributions as well as anything based on them:
 
-- [debian](https://debian.org)
+- [debian (untested)](https://debian.org)
 - [arch](https://archlinux.org)
-- [gentoo (based)](https://gentoo.org)
-- [redhat/fedora](https://getfedora.org)
-- [void](https://voidlinux.org)
+- [gentoo (untested)](https://gentoo.org)
+- [redhat/fedora (untested)](https://getfedora.org)
+- [void (untested)](https://voidlinux.org)
 
 ### installation
-set up a debian/arch/gentoo/redhat system and log in as root. make sure to create a new user and change their password. 
+set up a debian/arch/gentoo/redhat/void system and log in as root. make sure to create a new user and change their password. 
 
 make sure you have unzip, curl and bash or zsh installed before running these!
 
