@@ -1,4 +1,4 @@
-# -/ spDE 
+# spDE 
 
 ##### // speedie's desktop environment | // [discord](https://ffdiscord.github.io) // [twitter](https://twitter.com/@spdgmr) // [yt](https://youtube.com/speedie) // [github](https://github.com/speediegamer) // [my page](https://spdgmr.github.io) // [sfetch](https://github.com/speediegamer/sfetch)
 
