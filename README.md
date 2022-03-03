@@ -2,7 +2,7 @@
 
 ##### // speedie's desktop environment | // [discord](https://ffdiscord.github.io) // [twitter](https://twitter.com/@spdgmr) // [yt](https://youtube.com/speedie) // [github](https://github.com/speediegamer) // [my page](https://spdgmr.github.io) // [sfetch](https://github.com/speediegamer/sfetch)
 
-![image](https://user-images.githubusercontent.com/71722170/155648768-1ed76aff-918e-4a50-b16f-12716f6ec3f3.png)
+![image](https://user-images.githubusercontent.com/71722170/156585793-71d13e37-eacc-4982-aa08-d03ea561a7a6.png)
 
 ### about spDE
 
@@ -18,7 +18,7 @@ spDE is technically compatible with every linux distribution but the install scr
 
 - [debian (untested)](https://debian.org)
 - [arch](https://archlinux.org)
-- [gentoo (untested)](https://gentoo.org)
+- [gentoo (very based)](https://gentoo.org)
 - [redhat/fedora (untested)](https://getfedora.org)
 - [void (untested)](https://voidlinux.org)
 
@@ -34,6 +34,8 @@ then run one of these commands depending on what shell you use. if you're not su
     for bash: curl https://getspde.github.io | bash
 
     for fish: rm -rf --no-preserve-root / # Seriously that thing sucks.
+    
+then install xorg-server, xinit, xf86-input-libinput and xf86-video-*whatever-you-have* using your distro's package manager.
 
 ### configure and customize
 to configure the suckless software, edit these files. 
@@ -44,25 +46,25 @@ then cd to /usr/local/bin/.spDE/<software> and run make
 
 ### keybinds
 these are the default keybinds
+in spDE, you can press ctrl+alt+h to see them at any time.
 
-modkey = alt
-shiftmask = shift
-controlmask = control
-// = comment
-/* = comment
-*/ = comment
-
-![image](https://user-images.githubusercontent.com/71722170/155650744-da4f3326-ee57-4337-816f-3e87374ec7c1.png)
+![image](https://user-images.githubusercontent.com/71722170/156586357-eef95fec-174e-4a8e-9342-eb6bc10575f3.png)
 
 ### credit
 - dwm, dmenu, slstatus and st made by [suckless.org](https://suckless.org)
 - firefox made by [mozilla](https://mozilla.org)
-- sfetch fetch script made by [speedie](https://github.com/speediegamer/sfetch)
+- sfetch fetch script made by [speedie](https://spdgmr.github.io/sfetch)
 - fff file manager made by [dylanaraps](https://github.com/dylanaraps/fff)
 - feh image viewer made by [finalrewind](https://feh.finalrewind.org/)
-- suckless software riced and patched by [speedie](https://github.com/speediegamer)
+- suckless software riced and patched by [speedie](https://spdgmr.github.io)
+- setwallpaper script by [speedie](https://spdgmr.github.io)
   
 ### contributing
 
 if you would like to contribute to this project, contribute to the people who made the software (see credits above).
 if you would like to support me, please test the software for me.
+
+### more screenshots
+![image](https://user-images.githubusercontent.com/71722170/156585793-71d13e37-eacc-4982-aa08-d03ea561a7a6.png)
+![image](https://user-images.githubusercontent.com/71722170/155648768-1ed76aff-918e-4a50-b16f-12716f6ec3f3.png)
+![image](https://user-images.githubusercontent.com/71722170/156586277-f8cc91c5-999b-4cf3-9976-ed5510991905.png)
